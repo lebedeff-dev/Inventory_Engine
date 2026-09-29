@@ -1,4 +1,4 @@
-#Inventory Engine
+# Inventory Engine
 
 Motor de processamento em C que simula a gestao de estoque de uma fabrica
 (Supply Chain / ERP). Compara a materia-prima disponivel com a exigida para
